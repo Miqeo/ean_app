@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "m-m-s-peanut-orzeszki-ziemne-oblane-czekolada-w-kolorowych-skorupkach-45-g-orzechy-i-owoce-w-czekoladzie-slodkosci-desery-przekaski_0.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
